@@ -1,1 +1,1 @@
-# AI4Bioinformatics
+# AI4Bioinformatics or biodata analytics
