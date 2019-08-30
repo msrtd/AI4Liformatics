@@ -1,1 +1,1 @@
-# AI4git
+# AI4Bioinformatics
